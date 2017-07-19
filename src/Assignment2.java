@@ -1,4 +1,4 @@
-package assignment2;
+package assignment2; // Declaration of package
 import java.util.Scanner;
 public class Assignment2_2 {
 
